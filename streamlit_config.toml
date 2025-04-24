@@ -1,0 +1,5 @@
+name: nifty50-analysis
+description: Nifty 50 Sentiment and Price Prediction Dashboard
+sdk: streamlit
+sdk_version: 1.32.0
+python_version: 3.10
