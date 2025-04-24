@@ -1,0 +1,11 @@
+text,created_at,username,name,followers_count,verified,sentiment
+Nifty 50 looking strong today! Bullish on Indian markets for the coming weeks. #Nifty50 #IndianStocks,Wed Apr 23 12:32:34 +0000 2025,trader0,Stock Trader 0,1000,True,positive
+Just bought some Reliance shares. The company's growth prospects look excellent. #Reliance #Investment,Tue Apr 22 11:32:34 +0000 2025,trader1,Stock Trader 1,1500,False,positive
+HDFC Bank results are impressive. Banking sector leading the market rally. #HDFC #BankingStocks,Mon Apr 21 10:32:34 +0000 2025,trader2,Stock Trader 2,2000,False,positive
+TCS continues to deliver solid performance. Tech sector remains attractive. #TCS #TechStocks,Sun Apr 20 09:32:34 +0000 2025,trader3,Stock Trader 3,2500,True,positive
+Market volatility is concerning. Might reduce equity exposure for now. #MarketVolatility #StockMarket,Sat Apr 19 08:32:34 +0000 2025,trader4,Stock Trader 4,3000,False,negative
+Nifty technical indicators showing overbought conditions. Correction likely. #NiftyTechnicals #MarketOutlook,Fri Apr 18 07:32:34 +0000 2025,trader5,Stock Trader 5,3500,False,negative
+Oil prices rising rapidly. Could impact Indian markets negatively. #OilPrices #MarketImpact,Thu Apr 17 06:32:34 +0000 2025,trader6,Stock Trader 6,4000,True,negative
+RBI policy was as expected. Neutral for markets in the short term. #RBIPolicy #IndianEconomy,Wed Apr 23 05:32:34 +0000 2025,trader7,Stock Trader 7,4500,False,neutral
+FII flows remain strong into Indian equities. Positive for market sentiment. #FII #MarketSentiment,Tue Apr 22 04:32:34 +0000 2025,trader8,Stock Trader 8,5000,False,positive
+"Auto sales numbers are mixed. Some companies doing well, others struggling. #AutoSector #SalesData",Mon Apr 21 03:32:34 +0000 2025,trader9,Stock Trader 9,5500,True,neutral
