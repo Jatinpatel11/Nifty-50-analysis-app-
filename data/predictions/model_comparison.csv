@@ -1,0 +1,5 @@
+Model,Train RMSE,Train MAE,Test RMSE,Test MAE,R2 Score
+Linear Regression,125.45,98.32,145.67,112.45,0.78
+Random Forest,98.76,75.43,115.32,89.76,0.85
+Gradient Boosting,105.32,82.65,120.45,92.34,0.83
+LSTM,110.54,85.23,135.67,105.43,0.8
