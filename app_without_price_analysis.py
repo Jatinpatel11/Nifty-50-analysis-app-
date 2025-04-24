@@ -18,15 +18,7 @@ try:
 except ImportError:
     PLOTLY_AVAILABLE = False
     st.warning("Plotly is not available. Using Matplotlib for visualizations instead.")
-
-# Set page configuration
-st.set_page_config(
-    page_title="Nifty 50 Analysis Dashboard",
-    page_icon="📈",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
-
+    
 # Add custom CSS
 st.markdown("""
 <style>
