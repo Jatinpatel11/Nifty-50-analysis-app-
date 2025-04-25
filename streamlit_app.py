@@ -20,4 +20,4 @@ Please wait while we initialize the dashboard...
 st.info("Loading the main application... Please refer to app_without_price_analysis.py for the full dashboard.")
 
 # Redirect to the main application
-import app_without_price_analysis
+import app.py
